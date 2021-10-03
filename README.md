@@ -1,7 +1,7 @@
 # Ball-Shear-ANN-Regression
 ## Prototype Ballshear ANN Regression on ASM Wirebonder
 ## Link :
-### ANN regression model : 
+<br>ANN regression model :</br> 
 https://colab.research.google.com/drive/1eje9zILprgVmohMN7cKykI3fn4FBRPnF
 ### Onehot encoder : 
 https://towardsdatascience.com/columntransformer-in-scikit-for-labelencoding-and-onehotencoding-in-machine-learning-c6255952731b
