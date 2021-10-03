@@ -11,4 +11,6 @@ https://stackoverflow.com/questions/58087238/valueerror-setting-an-array-element
 In-HiddenLayer-Out : BS : EP = Loss% <br/>
 35-100-35-1 : 32 : 200 = 12.278% <br/>
 35-100-100-35-1 : 32 : 200 = 12.285% <br/>
+35-140-100-35-1 : 32 : 200 = 12.259% <br/>
+
 
