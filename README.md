@@ -1,12 +1,10 @@
-
+# Ball-Shear-ANN-Regression
 #### Installation:
 Anaconda Python Environment <br/>
 version is working for CPU or [GPU] <br/>
 Python 3.8 <br/>
 torchvision 0.16.1 (pip3 install torchvision==0.16.1) <br/>
 torch 2.1.1 or [torch 2.1.1+cu121] (https://pytorch.org/get-started/locally/) <br/>
-
-# Ball-Shear-ANN-Regression
 ## Prototype Ballshear ANN Regression on ASM Wirebonder
 ## Resource Link :<br/>
 Random Forest regression model : <br/>
