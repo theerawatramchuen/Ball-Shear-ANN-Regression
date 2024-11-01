@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 COPY ./app /code/app
 
 # Copy the model directory (with the saved model file) into the container
-COPY ./model /code/model
+COPY ./app/model /code/model
 
 # Expose port 80 for FastAPI
 EXPOSE 80
