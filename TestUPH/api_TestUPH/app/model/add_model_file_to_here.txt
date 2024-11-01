@@ -1,0 +1,1 @@
+run model_training.py to create model pickle file
