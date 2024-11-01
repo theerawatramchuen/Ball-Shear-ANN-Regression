@@ -4,3 +4,5 @@ https://machinelearningmastery.com/a-practical-guide-to-deploying-machine-learni
 docker build -t testuph-api .
 ### Run docker image
 docker run -d -p 80:80 testuph-api
+### Example Request:
+You can use tools like curl, Postman, or directly from the FastAPI Swagger UI to send a POST request to the /predict/ endpoint with the following JSON body: <br>
