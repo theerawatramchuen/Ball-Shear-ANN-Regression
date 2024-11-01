@@ -44,10 +44,10 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 pipeline.fit(X_train, y_train)
 
 # Create a 'model' folder to save the trained model
-os.makedirs('model', exist_ok=True)
+os.makedirs('app/model', exist_ok=True)
 
 # Save the trained model using pickle
-with open('model/rndf_regression_model.pkl', 'wb') as f:
+with open('app/model/rndf_regression_model.pkl', 'wb') as f:
 	pickle.dump(pipeline, f)
 
 print("Model trained and saved successfully.")
